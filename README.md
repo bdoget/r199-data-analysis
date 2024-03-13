@@ -1,26 +1,12 @@
-# non parametric modeling
-# figure out clustering and why
-# look at factors in factor 1 and 2 of pca 
-# hierarchical clustering
+non parametric modeling
  - dendrogram
  - silhouette scores
- # aggregate variables
+ - aggregate variables
  - descriptive analysis
 
 
- https://stackoverflow.com/questions/73285494/elbow-method-for-gaussianmixture
- https://www.freecodecamp.org/news/8-clustering-algorithms-in-machine-learning-that-all-data-scientists-should-know/
-
-
-
  - feature importance (coef, quantify the impact on clustering)
- - look at correlation
- - dendogram
- - feature selection
-
- - decribe the clusters, novel characteristics of each cluster
- - descriptive analysis 
-
+ - decribe the clusters, novel characteristics of each cluster (descriptive analysis)
 
  gradient boosting, random forest 
  non parametric, and non linear
@@ -30,7 +16,7 @@
 
  2 weeks: modeling, literature summary sheets 
 
-
+# Week 10 tasks
  random forest feature selection, feature selection based on buckets
  
  
