@@ -24,5 +24,13 @@
 
  gradient boosting, random forest 
  non parametric, and non linear
+
+
+ feature selection, re-describe analysis clusters
+
+ 2 weeks: modeling, literature summary sheets 
+
+
+ random forest feature selection, feature selection based on buckets
  
  
